@@ -10,4 +10,4 @@ Source code beirkut ini bertujuan untuk memenuhi proyek UAS mata kuliah Probabil
 Informasi lengkap mengenai codingan ada di dalam file ppt-nya.
 Semoga source code ini dapat bermanfaat bagi sesama.
 
-^.^ Have Fun ^.^.
+^.^ Have Fun ^.^
