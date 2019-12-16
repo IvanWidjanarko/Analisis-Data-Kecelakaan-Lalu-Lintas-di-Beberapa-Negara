@@ -9,8 +9,7 @@ Source code beirkut ini bertujuan untuk memenuhi proyek UAS mata kuliah Probabil
 Informasi lengkap mengenai codingan ada di dalam file ppt-nya.
 Semoga source code ini dapat bermanfaat bagi sesama.
 
-Setelah Anda mengunduh file .zip, buatlah folder di desktop dengan nama Probstok.
-Kemudian, ekstrak file .zip yang sudah diunduh ke dalam folder tersebut.
+Setelah Anda mengunduh dan mengekstrak file .zip yang ada, sebaiknya Anda mengganti path yang ada di dalam codingan file .ipynb sesuai dengan lokasi file di mana Anda mengekstrak file .zip tersebut
 Atas perhatiannya, saya ucapkan terima kasih.
 
 ^.^ Have Fun ^.^
